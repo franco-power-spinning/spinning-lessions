@@ -33,11 +33,51 @@
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Avicii.als</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>vivaldi.als</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>some body to sove D&amp;B.als</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>4</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>psyTrans Accellerata.als</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>2</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>applause.als</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>3</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
             </rdf:Bag>
          </ablFR:items>
          <xmp:CreatorTool>Updated by Ableton Index 12.0</xmp:CreatorTool>
          <xmp:CreateDate>2023-11-15T18:56:40+01:00</xmp:CreateDate>
-         <xmp:MetadataDate>2024-09-10T14:17:23+02:00</xmp:MetadataDate>
+         <xmp:MetadataDate>2024-09-28T13:34:16+02:00</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>
